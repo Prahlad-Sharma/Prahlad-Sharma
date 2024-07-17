@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
+<h1 align="center">Hey Everyone 👋, I'm Prahlad Sharma</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
+- 👨‍💻 All of my projects are available at [https://github.com/Prahlad-Sharma]
 
 - 💬 Ask me about **DevOps & Cloud DevOps**
 
