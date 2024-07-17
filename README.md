@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prahlad-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="prahlad-sharma" /> </p>
 
-- 🔭 I’m currently working on [Americium](americium.in)
+- 🔭 I’m currently working on [Americium](https://americium.in/index.html)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prahlad-Sharma](https://github.com/Prahlad-Sharma)
 
