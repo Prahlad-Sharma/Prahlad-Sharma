@@ -1,4 +1,4 @@
-![logo] (https://github.com/Prahlad-Sharma/Prahlad-Sharma/blob/main/banner.png)
+![logo](https://github.com/Prahlad-Sharma/Prahlad-Sharma/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Prahlad Sharma</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
