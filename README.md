@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prahlad Sharma</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://iconscout.com/lottie-animation/freelance-developer-working-on-laptop-4337850">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prahlad-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="prahlad-sharma" /> </p>
 
 - 🔭 I’m currently working on [Americium](americium.in)
