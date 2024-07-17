@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prahlad Sharma</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://iconscout.com/lottie-animation/freelance-developer-working-on-laptop-4337850">
+<img align="right" alt="coding" width="400" src="[https://iconscout.com/lottie-animation/freelance-developer-working-on-laptop-4337850](https://www.google.com/url?sa=i&url=https%3A%2F%2Flenguasextranjerastec.cdserdan.tecnm.mx%2F%3Fe%3Dcreate-vector-illustrations-animated-gif-according-to-your-need-ss-Ma5WbgIQ&psig=AOvVaw3nmOOFPJeV38c8V3injNOu&ust=1721306837931000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCBqOmNrocDFQAAAAAdAAAAABAW)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prahlad-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="prahlad-sharma" /> </p>
 
 - 🔭 I’m currently working on [Americium](americium.in)
